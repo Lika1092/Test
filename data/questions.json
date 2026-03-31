@@ -1831,7 +1831,7 @@
   {
     "id": "q151",
     "type": "text",
-    "question": "(Смотреть подсказку)<br> <img src=\"/assets/images/151.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "(Смотреть подсказку)<br> <img src=\"assets/images/151.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "(2/(3*x^(2/3)))-(9/(x^4))"
   },
@@ -1855,35 +1855,35 @@
   {
     "id": "q153",
     "type": "text",
-    "question": "<img src=\"/assets/images/153.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "<img src=\"assets/images/153.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "расходится"
   },
   {
     "id": "q154",
     "type": "text",
-    "question": " <img src=\"/assets/images/154.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": " <img src=\"assets/images/154.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "13"
   },
   {
     "id": "q155",
     "type": "text",
-    "question": "(Смотреть подсказку)<br> <img src=\"/assets/images/155.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "(Смотреть подсказку)<br> <img src=\"assets/images/155.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "(3;0;1)"
   },
   {
     "id": "q156",
     "type": "text",
-    "question": " <img src=\"/assets/images/156.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": " <img src=\"assets/images/156.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "А2Б1В4Г3"
   },
   {
     "id": "q157",
     "type": "text",
-    "question": "(Смотреть подсказку)<br> <img src=\"/assets/images/157.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "(Смотреть подсказку)<br> <img src=\"assets/images/157.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "4"
   },
@@ -1915,35 +1915,35 @@
   {
     "id": "q160",
     "type": "text",
-    "question": "(Смотреть подсказку)<br> <img src=\"/assets/images/160.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "(Смотреть подсказку)<br> <img src=\"assets/images/160.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "2"
   },
   {
     "id": "q164",
     "type": "text",
-    "question": "(Смотреть подсказку)<br> <img src=\"/assets/images/164.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "(Смотреть подсказку)<br> <img src=\"assets/images/164.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": " -(asint)*i+(acost)*j+bk"
   },
   {
     "id": "q165",
     "type": "text",
-    "question": "<img src=\"/assets/images/165.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "<img src=\"assets/images/165.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "взаимнопростыми"
   },
   {
     "id": "q166",
     "type": "text",
-    "question": "<img src=\"/assets/images/166.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "<img src=\"assets/images/166.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "23"
   },
   {
     "id": "q167",
     "type": "text",
-    "question": "<img src=\"/assets/images/167.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "<img src=\"assets/images/167.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "А3Б4В1Г2"
   },
@@ -1957,14 +1957,14 @@
   {
     "id": "q169",
     "type": "text",
-    "question": "(Смотреть подсказку)<br> <img src=\"/assets/images/169.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "(Смотреть подсказку)<br> <img src=\"assets/images/169.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "1"
   },
   {
     "id": "q170",
     "type": "text",
-    "question": "(Смотреть подсказку)<br> <img src=\"/assets/images/170.PNG\" alt=\"Картинка\" class=\"q-img\">",
+    "question": "(Смотреть подсказку)<br> <img src=\"assets/images/170.PNG\" alt=\"Картинка\" class=\"q-img\">",
     "hint": "",
     "answer": "x=2"
   },
