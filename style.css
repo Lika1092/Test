@@ -27,7 +27,8 @@ input[type="text"] { padding: 8px; font-size: 16px; width: 100%; border-radius: 
 
 #question-nav {
     display: flex;
-    overflow-x: auto;          /* горизонтальный скролл */
+    overflow-x: auto;  /* горизонтальный скролл */
+    justify-content:center;
   }
 .nav-btn { margin-right: 0px; padding: 8px 12px; border-radius: 6px; border: 1px solid #ccc; background-color: #ecf0f1; cursor: pointer; transition: 0.3s; }
 .nav-btn:hover { background-color: #dfe6e9; }
