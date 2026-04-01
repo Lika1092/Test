@@ -3,7 +3,7 @@ let score = 0
 let questions = []
 let allQuestions = []
 let answered = {}
-const QUESTIONS_LIMIT = 30
+const QUESTIONS_LIMIT = 50
 
 // ================== СОХРАНЕНИЕ / ЗАГРУЗКА ==================
 
